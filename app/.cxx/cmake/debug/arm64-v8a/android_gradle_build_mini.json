@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "C:\\Users\\thoni\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\thoni\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "C:\\Mobile Application\\POCSecureKeyApp\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\thoni\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Mobile Application\\POCSecureKeyApp\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\thoni\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Mobile Application\\POCSecureKeyApp\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\thoni\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Mobile Application\\POCSecureKeyApp\\app\\.cxx\\cmake\\debug\\arm64-v8a\" native-lib",
+      "abi": "arm64-v8a",
+      "output": "C:\\Mobile Application\\POCSecureKeyApp\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libnative-lib.so"
+    }
+  }
+}
